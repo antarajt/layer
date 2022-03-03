@@ -1,0 +1,93 @@
+.wrapper{
+    overflow: hidden;
+    border: 10px solid rgb(167, 137, 5);
+}
+
+.box{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(11, 175, 121);
+}
+.box-1{
+    float: left;
+    width: 70%;
+    min-height: 300px;
+    background-color: rgb(10, 10, 95);
+}
+.box-2{
+    float: right;
+    width: 30%;
+    min-height: 300px;
+    background-color: rgb(64, 64, 105);
+}
+.footer{
+        display: inline-block;
+        width: 100%;
+        min-height: 200px;
+        background-color: rgb(0, 0, 0);
+}
+
+
+h1{
+    text-align: center;
+    color: black;
+}
+body{
+    border: 5px solid black;
+}
+.header{
+    width: 100%;
+    min-height: 200px;
+    background-color: rgb(2, 82, 82);
+    
+}
+.wrapper-2{
+    overflow: hidden;
+    border: 5px solid black;
+}
+.service{
+    width: 33.33%;
+    min-height: 260px;
+    float: left;
+
+}
+.one{
+    
+   background-color: brown; 
+ 
+}
+.two{
+    
+    background-color: chocolate;
+ 
+   
+}
+.three{
+    
+    background-color: rgb(70, 51, 2);
+    
+}
+.wrapper-3{
+    overflow: hidden;
+    border: 5px solid black;
+    
+}
+.contact{
+    float: left;
+    min-height: 240px;
+    width: 50%;
+    background-color: darkslategray;
+}
+.blog{
+    float: right;
+    min-height: 240px;
+    width: 50%;
+    background-color: rgb(4, 44, 44);
+}
+.footer-1{
+    border: 5px solid black;
+    min-height: 200px;
+    background-color: rgb(70, 51, 2);
+}
+
+
